@@ -32,3 +32,8 @@
 .ofh {
   overflow: hidden;
 }
+
+p {
+  text-indent: 2em;
+  padding-bottom: .5rem;
+}
