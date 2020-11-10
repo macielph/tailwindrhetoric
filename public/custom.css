@@ -1,0 +1,36 @@
+@font-face {
+  font-family: HelBold;
+  src: url(fonts/HelveticaNeueLTPro-Bd.otf);
+}
+
+@font-face {
+  font-family: HelMedium;
+  src: url(fonts/HelveticaNeueLTPro-Md.otf);
+}
+
+@font-face {
+  font-family: HelRoman;
+  src: url(fonts/HelveticaNeueLTPro-Roman.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+
+.font-serif {
+  font-family: "Cambria" !important;
+}
+
+.font-helroman {
+  font-family: 'HelRoman' !important;
+}
+
+.font-helmedium {
+  font-family: 'HelMedium' !important;
+}
+
+.font-helbold {
+  font-family: 'HelBold' !important;
+}
+
+.ofh {
+  overflow: hidden;
+}
