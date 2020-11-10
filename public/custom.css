@@ -13,8 +13,6 @@
   src: url(fonts/HelveticaNeueLTPro-Roman.otf);
 }
 
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
-
 .font-serif {
   font-family: "Cambria" !important;
 }
