@@ -53,5 +53,20 @@ p {
   -webkit-column-gap: 50px;
   column-count: 2;
   column-gap: 50px;
-  margin: 0 100px 50px 100px;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 650px) {
+  .excerpt {
+    column-count: 1;
+  }
+
+  iframe {
+    width: auto;
+    height: auto;
+  }
 }
